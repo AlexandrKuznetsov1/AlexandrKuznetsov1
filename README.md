@@ -6,5 +6,6 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-green?logo=python)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-### Портфолио
-# []https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md
+# Портфолио
+## [Дипломная работа](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
+## [Аттестационная работа]()
