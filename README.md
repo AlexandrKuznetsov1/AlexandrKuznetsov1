@@ -6,3 +6,4 @@ ________________________________________________________________________________
 # Портфолио
 ## [Дипломная работа](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md) Визуализация данных с использованием Matplotlib, Seaborn и Plotly, сравнение библиотек.
 ## [Аттестационная работа](https://github.com/AlexandrKuznetsov1/PriceListAnalyzer/blob/master/README.md) Анализатор прайс-листов.
+## [Dgango](https://github.com/AlexandrKuznetsov1/DjangoProject19/blob/main/README.md) сайт магазина, с блогом и администрированием.
